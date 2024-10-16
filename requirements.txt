@@ -1,0 +1,17 @@
+numpy
+tensorflow
+keras
+scikit-learn
+osgeo
+pandas
+natsort
+joblib
+optparse
+xlsxwriter
+multiprocessing
+rasterio
+tqdm
+argparse
+GDAL
+opencv-python
+openpyxl
